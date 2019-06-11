@@ -1,0 +1,10 @@
+This program will stuff fake credentials into phishing webpages in order to inconvenience them. 
+
+The program requires that you enter the phishing url as well as the specific parameter 
+names for that site when posting data. 
+
+The hopes are to flood their datadumps with fake credentials so that they spend more time 
+testing fake creds than actual credentials entered by duped persons. You can increase the 
+sizes of the pw.json and names.json as you see fit as I only posted a snippet of 
+the files I created. 
+
